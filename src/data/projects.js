@@ -12,14 +12,14 @@ const PROJECTS = [
   },
   {
     id: 2,
-    title: 'My API',
+    title: 'Todo List',
     description: 'Todo List application built with JavaScript.',
     link: 'https://todo-list-fafa8.firebaseapp.com/',
     image: project2
   },
   {
     id: 3,
-    title: 'Operating Systems Final Project',
+    title: 'RGB color game',
     description: 'Game built with JavaScript to test your RGB color model skills',
     link: 'https://infinite-meadow-40090.herokuapp.com',
     image: project3
