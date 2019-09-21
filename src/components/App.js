@@ -23,7 +23,7 @@ class App extends Component {
                         <div>
                             <p>I live in Salt Lake City, and code every day.</p>
                             <p>My favorite language is JavaScript, and I think React.js is awesome.</p>
-                            <p>Besides coding, I also love playing the guitar with my wife and daughters.</p>
+                            <p>Besides coding, I love spending time with my wife and children, writing music, playing guitar and rooting for my favorite sports teams.</p>
                             <button onClick={this.toggleDisplayBio}>Show less</button>
                         </div>
                     ) : (
