@@ -1,12 +1,12 @@
 import project1 from '../assets/yelp-camp-thumbnail-react.png';
-import project2 from '../assets/project2.png';
-import project3 from '../assets/project3.png';
+import project2 from '../assets/todo-list-thumbnail.png';
+import project3 from '../assets/rgb-color-game-thumbnail.png';
 
 const PROJECTS = [
   {
     id: 1,
     title: 'YelpCamp',
-    description: 'Dynamic web application with built with JavaScript using CRUD functions about campsites',
+    description: 'Dynamic application with built with JavaScript',
     link: 'https://tranquil-ridge-27196.herokuapp.com/',
     image: project1
   },
