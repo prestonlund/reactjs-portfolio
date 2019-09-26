@@ -14,7 +14,7 @@ class App extends Component {
         return (
             <div>
                 <img src={prestonprofile} alt='profile' className='profile' />
-                <h1>Hello, I'm Preston!</h1>
+                <h1>Hi, I'm Preston!</h1>
                 <p>I'm a front end developer.</p>
                 <p>I'm always looking forward to working on meaningful projects that challenge me.</p>
                 <p>I developed this portfolio using React.js.</p>
